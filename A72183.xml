@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God speede the plough</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1601</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72183</idno>
+            <idno type="STC">STC 11925.5</idno>
+            <idno type="STC">ESTC S5233</idno>
+            <idno type="EEBO-CITATION">39960699</idno>
+            <idno type="OCLC">ocm 39960699</idno>
+            <idno type="VID">150479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1946:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God speede the plough</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Harison, dwelling in Pater noster row, at the signe of the Gray-hound, and are there to be solde,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plowing --  England --  Early works to 1800.</term>
+               <term>Tillage --  Research --  England --  Early works to 1800.</term>
+               <term>Agriculture --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150479:1" rendition="simple:additions"/>
+            <p>GOD SPEEDE THE PLOVGH.</p>
+            <q>
+               <bibl>Geneſ. 26.12.</bibl>
+               <p>Serens Iitzchak in terra illa, adeptus eſt in eodem anno centuplas menſuras.</p>
+            </q>
+            <p>LONDON Printed by Iohn Hariſon, dwelling in Pater noſter row, at the ſigne of the Gray-hound, and are there to be ſolde. 1601.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150479:2"/>
+            <pb facs="tcp:150479:2"/>
+            <head>GOD SPEEDE THE PLOVGH.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Had preceded certaine affirmed errours, that of late came to my hands, by a priuate confutation of a generall cauſleſſe applauſe, had not the vaine ſhew of maintaining the poore, beene the noted colour for their maintenance: I therefore then ſpared my conceit thereof, till now prouoked by this ſpirit that I euer feared would giue the firſt prouocation. I taxe him not, but wiſh that his Bookes were not ſo vniuerſally branded, that ſo his affec<g ref="char:EOLhyphen"/>tation of odde nouelties, might be in part obſcured.</hi>
+            </p>
+            <p>
+               <hi>It much contenteth me, that this noueltie hath his paſ<g ref="char:EOLhyphen"/>ſage, though I endeuour to ſhew the vanitie of it being thus farre paſſed: my hopes are, that it will ſet an edge to good Husbandrie, which with vs for many yeares hath beene generally neglected.</hi>
+            </p>
+            <p>
+               <hi>The originall of the Spade, I attribute to</hi> Caine A<g ref="char:EOLhyphen"/>dams <hi>eldeſt Sonne, with inference vpon holy writ, and</hi> Ioſephus <hi>more particularly. Excellent ſpirits ſucceeding him, labored after ſome eaſier and more profitable courſe, from whome in courſe of time proceeded the Plough. The
+<pb facs="tcp:150479:3" rendition="simple:additions"/>firſt inuentors whereof in euerie ſeuerall kingdome, being thought worthie to bee deified, reade</hi> Virgil <hi>and</hi> Plinie <hi>for</hi> Ceres: Diodorus <hi>for</hi> Iſis: <hi>and</hi> Dioniſius <hi>the ſecond, who is reported firſt to haue yoked Oxen to the Plough. But now the reuiuers of the Spade, a thing in vſe onely in the infancie of the world, muſt be glorified. If our purpoſe bee to reduce the old world, before by degrees things came to perfection, then in my iudgement it were beſt beginning at the woodden dagger. But if we deſire to know how of late it came in vſe, at home let vs conferre with the Dutchmen about Sandwitch, and ſome Gardeners about London: if abroad, trauell Germanie, where you ſhall find many preſidents thereof; ſuruay the Prouinces, peruſe the Eaſterne Countries, and they will manifeſt, that it hath beene long in vſe. The truth is, theſe laſt two yeares haue drawne it amongst vs into ſome more generall vſe. For they being drie and extraordinarie temperate, the weedes increaſed not as in former yeares: the ſtalke was ſhort, the care not ſo long nor ſo heauie: it ſtoode therefore in theſe yeares with all aduantage, and ſo profitable onely in their like. In wet yeares it will ledge, with all the diſaduanta<g ref="char:EOLhyphen"/>ges ſubſequent, and therefore vnprofitable in them. I might prophecie, that as the two precedent yeares reuiued it; ſo the two ſuccedent yeares will leaue no memorie of it: and yet this preſent yeare promiſeth good ſucceſſe to it, which iuſtly might diſ-harten my oppoſition to this nouel<g ref="char:EOLhyphen"/>tie, were not my ends in ſeeming to oppoſe, deſires to per<g ref="char:EOLhyphen"/>fect to the generall good.</hi>
+            </p>
+            <p>The Plough, which now is generally in vſe, can compaſſe with the aide of two or one, as the Country requires, an Aere or two in a day. Three<g ref="char:EOLhyphen"/>ſcore
+<pb facs="tcp:150479:3" rendition="simple:additions"/>ordinarie Countrie labourers, can hardly digge an Acre at two Spades, whereof I haue made triall. If a Husbandman appoint thirtie Acres for Wheate, which is no great proportion, it will re<g ref="char:EOLhyphen"/>quire threeſcore men to digge it, and twentie wo<g ref="char:EOLhyphen"/>men or children to ſet it. If one imploy foureſcore for ſeuen weekes ſpace, which will be the leaſt time, accompting chaunge of weathers, what ſhall his neighbour Farmors doe? depend vpon the fauour of the labourers for hauing Corne or no Corne? But if it be well conſidered, it will appeare, that if a Pariſh haue three thouſand Acres of arable, the labourers inhabitants cannot compaſſe 100. I dare affirme not fiftie Acres: what then can bee the pro<g ref="char:EOLhyphen"/>fit to digge and ſet ſome fiftie Acres in a Pariſh? is it poſsible to equall the ſowing of three thouſand, or three hundred Acres? If then it cannot be vſed with any generall good to the Commonwealth, it is not to be preferred before the Plough, nor to be bruted as a matter of that conſequent.</p>
+            <p>The ground muſt be digged at a Spade, a Spade &amp; a halfe or two Spades. If moſt profitable, then two Spades. If two Spades, then will the ground, being made looſe ſo deepe as it can afford nutriment to the rootes of the VVheate at any time, yeeld at one time his full vigor, ſo as I cannot vnderſtand, but that the ſecond crop will bee poore, and the third none at all. For ſoyle to ſupplie, it cannot be but to ſmall parcels, and that to no purpoſe, except there be threeſcore loade vpon an Acre, and that wel tur<g ref="char:EOLhyphen"/>ned in with the old earth. For a Spade and a halfe, which is the fitteſt depth, becauſe Spades are made to make it but one worke, it admitteth ſmall or no
+<pb facs="tcp:150479:4"/>difference. For a ſpade depth, I confidently ſet down a ſubſequent vſe of the Plough, of better profit then that. When the ſecond crop is taken after the Spade, at two, or one and a halfe depth, it being double weeded euerie crop, ſo as neither graſſe groweth vpon the ſuperſicies, nor life remaineth within the earth, what then ſhall be done with it? It will remaine like a Gardiners ground, out of the which the Gardiner by often digging hath taken the hart: which I deſire to be examined of them, to know what gifts they haue, to extract the vertue out of the earth, and after a third croppe of that ground, that at the firſt was couered with dung, what profit they haue left to the owner? On the contrarie, the Plough affordeth three crops, and then yeeldeth vpon the reſt ſome profit for Catle, &amp; ſo euerie yeare continueth his labour and increaſe, whereas the other cannot to any purpoſe yeeld a<g ref="char:EOLhyphen"/>boue two crops in foure yeares, except extraordi<g ref="char:EOLhyphen"/>narily helpt. So it leaueth the Commonwealth de<g ref="char:EOLhyphen"/>ſtitute of the continual profit. And it is not the glut of plentie, but the ordinarie increaſe that maintai<g ref="char:EOLhyphen"/>neth the Commonwealth.</p>
+            <p>In ſome grounds digging is of ſmall or no vſe: as in ſtiffe Clay a verie generall earth: Light Sand: Grauelly grounds: or ſuch grounds, as at halfe a Spade depth affordeth a barren earth. The Clay will not be broken: if it could, it would yeeld no ſuch encreaſe. The light Sand, will afford his full profit, as well after the Plough, as any labour what<g ref="char:EOLhyphen"/>ſoeuer. The ſtonie ground will require infinite la<g ref="char:EOLhyphen"/>bour,
+<pb facs="tcp:150479:4"/>and yeeld no better profit. The ground that hath a barren earth at halfe a Spade, can onely bee vſed by the Plough. So theſe containing the grea<g ref="char:EOLhyphen"/>teſt quantities of our arable grounds in England, and theſe not in that kind to bee vſed with profit anſwerable to the charge: I affirme, that the Plough is to be preferred.</p>
+            <p>The ground, wherein the Spade is imployed, muſt be digged, ſet, weeded twiſe, vpheld, being ſet diuided in beds if ſo profitable, and it muſt be kept a Moneth before Harueſt. The charge of the digging of an Acre will amount to three pound, more if it come to a generall vſe: The ſetting, thir<g ref="char:EOLhyphen"/>teene ſhillings and foure pence: The weeding twiſe, the firſt time, thirteene ſhillings and foure pence: The ſecond, ſixe ſhillings and eight pence. The vp<g ref="char:EOLhyphen"/>holding it with rayles on the out ſides, as good huſ<g ref="char:EOLhyphen"/>wiues doe their Onions, or as Gardiners doe their Peaſe, will bee a charge in ſome Countries at the leaſt of one pound ſixe ſhillings and eight pence the Acre. It muſt bee kept a Moneth, which for a youth at foure ſhillings the weeke meate &amp; drinke, commeth to ſixteene ſhillings, I ſay it muſt be kept, becauſe no grounds are ſo rich to afford it ſo plenti<g ref="char:EOLhyphen"/>fully as thoſe that adioyne to dwelling houſen, nor none ſo conuenient to be helpt as them, then is it of neceſſitie that the Birds will lie vpon it with great preiudice, therefore it muſt bee kept. The totall charge, is at the leaſt ſixe pound thirteene ſhillings and foure pence vpon an Acre, beſides the rent of the grounds, Vnderſtanding this, I demaund where
+<pb facs="tcp:150479:5"/>the Husbandmen bee, that now liuing vpon ſo ex<g ref="char:EOLhyphen"/>ceſſiue racked rents, can disburſſe the charge of ma<g ref="char:EOLhyphen"/>ny Acres. Beſides, there is a neceſſitie in this worke, where ſo many muſt bee employed, of a Bailey of ſufficiencie, whoſe charge is to be thought vpon by the way.</p>
+            <p>The charge of the Spade you haue heard, and euerie man knoweth the charge of the Plough. For the inconueniences of the Spade, it is more ſubiect to weedes. For wee ſee the richer the ground, the more weedie; and the more pliable and gentle the mould is, the weedes more abound, as it is manifeſt in Gardens, ſo as it cannot bee otherwiſe, but that in a wet ſeaſon the weeds will ouergrow the Corne, and in many yeares not poſſible to bee helpt. For it being in eare, the weeders will doe more hurt then good: and it is the wet after it commeth in eare, that alſo cauſeth the weede that choketh the Corne: this euerie experienced man knoweth. Yet to thoſe that haue ſet and muſt weede, I perſwade the end of March, and the beginning of Aprill for their firſt time, and at that firſt time, I perſwade the doing of it thoroughly. It is more ſubiect to bee blaſted and ſmutten, for that by the freeneſſe of the ground, it will be ſooner in eare: yea, ſo ſoone as at the begin<g ref="char:EOLhyphen"/>ning of May it will ſhew it ſelfe, being then ſubiect to the froſts &amp; dewes of that ſeaſon, the loſſe where<g ref="char:EOLhyphen"/>of witneſſe the Corne in the Marſhes. By birdes I know it will receiue great preiudice, which will be ſo ſenſible, as with the time, wee will in our rich grounds by our houſen, returne to ſowing
+<pb facs="tcp:150479:5"/>rootes. As for the ledging, I cannot but profeſſe that onely that will diſcourage all affecters of this nouoltie, for many ſtalkes will come out of one roote, euerie ſtalke will be ſlender and long, euerie eare will bee heauier and longer then ordinarie, or elſe, no poſſibilitie of ſuch increaſe as is talked for, and it muſt be exoeeding rancke. If a ſmaller ſtalke, longer, heauier <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red, and thicker ſet then ordina<g ref="char:EOLhyphen"/>rie, how is it poſſible to be vpheld? Experience will teach, that the leaſt wet in Summer, will cauſe a diſlike of the Spade and reuocation of the Plough, who commeth not ſo ſoone into eare, who is ſtronger ſtalked, not ſo long, heauie, nor ſo thicke ſet. Alſo, I know the place within twentienliles of London, where this laſt yeare for all the temper of it, that ſet Wheate, did ledge and come to ſmall or no profit. The Corne that is ſet, is more ſubiect to the mould, Mouſe and worme: for the ground be<g ref="char:EOLhyphen"/>ing lighter, they haue the freer paſſage in the earth, and it muſt maintaine a Mould-catcher, if vſed in any quantitie. The difference in my vnderſtanding, betweene ſetting and ſowing is: That in ſowing, the Birds wil picke vp ſome of the Cornes at ſeede time, and the graſſe wil preiudice the Corne in comming vp. The Birds (they ſay) taketh away much of the Corne ſowne, but none of that ſet; I admit that, but what part of the Corne is it? is it any but the looſe Corne? if ſowne timely in the yeare, if late, I confeſſe the Crowes will ſcrape ſome ſmall quanti<g ref="char:EOLhyphen"/>tie out of the ground: but if it be ſowne vnder Fur<g ref="char:EOLhyphen"/>row; then is it euerie way as ſafe as that which is ſet, and where it is not, the proportion of ſowing is
+<pb facs="tcp:150479:6"/>three buſhels vpon an Acre in good ground, and for ſetting halfe a buſhell or a pecke, as ſome would haue it. That being ſo, it cannot bee but vpon eue<g ref="char:EOLhyphen"/>rie Acre, where three buſhels are ſowne, that there will a buſhell remaine to come to perfection, ſo as the Birds cannot be of that preiudice, as to make it ſeeme nothing in compariſon of the Spade. But if ſowne before Michaelmas vnder furrow, then is it as ſafe from Birdes as that which is ſet. For the graſſe a fallow killeth it, &amp; leaueth it vpon as good terms. Alſo, it may be raked off at much leſſe charge then buried by digging. I muſt confeſſe, that there is a great fault committed in England, for ſparing a litle charge in weeding; eſpecially in good grounds. Yet there are that take vp the defence; that ſo they want the after Paſture, the leauing of the Fogge on the ground there to rot and be as new compoſt. Al<g ref="char:EOLhyphen"/>ſo, the graſſe after his ſeaſon of cutting, ſendeth downe into the earth againe that nutriment which it receiued, which may be obſerued in the omitting to cut Meadowes in their due time. But theſe are anſwered: for in being not weeded, if the yeare proue wet, the Corne is at loſſe: if drie, the increaſe will be double, eſpecially in rich grounds, as by ex<g ref="char:EOLhyphen"/>perience you ſhall find: vſe it, and perſwade the vſe of it, how ſlender ſo euer the crop ſeeme to be, and of what nature ſo euer the ground bee. I affirme therefore, that an Acre of ground turned vp before Chriſtmas, ſo as it may lie in a Winter fallow, then in May compoſt to the equall goodneſſe of the ground, ſet and Ploughed croſſe, &amp; laied in a Sum<g ref="char:EOLhyphen"/>mer fallow, after ſtirred, and then Ploughed and
+<pb facs="tcp:150479:6"/>ſowne vnder forrow three weekes before Michael<g ref="char:EOLhyphen"/>mas, will yeeld an equall crop with the Spade, and exceede it, in that it will afford three crops one af<g ref="char:EOLhyphen"/>ter another, and the other but one to any purpoſe. I will not diſgrace a proofe I meane to make triall of for Barley. And that is to giue to a peece of ground foure earthes, euerie one deeper then other, hauing a Plough for the purpoſe. After two of which, to breake and leuell the ground with a great Oxe harrow, which I perſwade to al good husbands for Summer graine. After the other two, to rake a<g ref="char:EOLhyphen"/>way the graſſe that the light Harrow leaueth till it be as leuell as a Garden, and then ſet it, which be<g ref="char:EOLhyphen"/>ing diſcreetly vſed, will not exceede aboue ten ſhil<g ref="char:EOLhyphen"/>lings more charge vpon an Acre, by the ouerplus of the graine that is ſowne: and ſo I doubt not; but to haue as great a quantitie (alwaies prouided, that I take care to weede it) as hee that diggeth and ſet<g ref="char:EOLhyphen"/>teth it. I conceit well, that when a peece of ground is cleane out of heart by Ploughing, and the earth vnder the Plough, co<g ref="char:cmbAbbrStroke">̄</g>rinueth as good as that aboue, that then this houeltie be vſed as being there of beſt vſe. Yet a Plough may ſo be made and handled, as it may goe deeper by halfe a foote then ordinarie, yea a foote, proportioning the ſtrength of the Teame and Plough together. I haue perſwaded ſome verie eager to ſet Wheate, that they ſhould doe it in the beginning of March next if the ground bee rich as it ought to bee; thereby to preuent the ſmut, the weede, the length of the ſtraw, and ſo ledging and I hope of their hauing a good increaſe: for the beſt crop that euer I ſaw, was a Summer crop of wheate
+<pb facs="tcp:150479:7"/>in a rich ground. Beſides, I except not againſt beds of Corne vpheld by thoſe that loue nouelties, for I know that without ſome ſtrengthning it will ledge &amp; come to nothing. And I aduiſe all thoſe that this yeare hath beene at great charges in digging and ſetting, that in the latter end of March in a drie time, they get wood, and either rayle their grounds thorow at ſixe foote diſtaunce, as Onions are for ſeede, or ſet ſtickes cleane thorough the ground for the Corne to reſt vpon, as Peaſe haue: Or elſe at e<g ref="char:EOLhyphen"/>uerie foure foote in breadth, ſet rowes of ſtickes which will be ſufficient. But all things conſidered, I reſolue that the old good Husbandry of the Plough is moſt profitable for the fields, and the later Huſ<g ref="char:EOLhyphen"/>wifrie of rootes and neceſſarie prouiſion for the houſe, moſt profitable for the Gardens.</p>
+            <p>It may be, that ſome will obiect that hitherto I haue erred from the ſtate of the queſtion, prouing onely the Plough of better vſe then the Spade, for the generall or particular good; whereas I ought to haue proued alſo ſetting of Corne to be inferiour to ſowing. For that it is ſetting, which is ſpecially to be regarded in this new art &amp; not digging. I anſwere, that if digging were not as the ſoule of this queſti<g ref="char:EOLhyphen"/>on, and ſetting but as the body, I would neuer haue ſet penne to paper. But in all reaſonable vnderſtan<g ref="char:EOLhyphen"/>ding, it is the looſning of the ground, whereby the earth may yeeld nutriment to the rootes, and the rootes increaſe and take ſtrength ſo eaſily in the earth that yeeldeth ſo great increaſe. As for ſetting, it is nothing but forme at ſuch a diſtance, and ſuch a
+<pb facs="tcp:150479:7"/>depth: The diſtance they ſay of foure or fiue inches: the depth three or foure inches. The Gardener, a certain time after his Parpſnips &amp; Carrats are come vp, if they appeare to thicke, taketh out the ſmalleſt and ſetteth againe: ſo may alſo the Corne be vſed, where it is too thicke, by thoſe that haue nothing to doe. But if the thinneſſe of the Corne cauſe the profit, it may be ſowne as thinne as ſet, onely not ſo iuſt at a diſtance, yet as profitable. For the depth, I know no difference, betweene that and ſowing vn<g ref="char:EOLhyphen"/>der furrow: it reſteth onely in the diſtance. And that a Buſhell orderly ſowne vnder furrow vpon an Acre that is digged, will yeeld as great profit as halfe a buſhell ſet, I challenge any man to the practiſe. Be<g ref="char:EOLhyphen"/>ſides, I vouch him authoritie for the increaſe of ſow<g ref="char:EOLhyphen"/>ing, ſuch as neither his reading nor practiſe ſhall euer ſhew me the like for ſetting. I haue no Hebrew for the Text; but I haue all tranſlations agreeing. <hi>Geneſ.</hi> 26.12. <hi>Iſaacke</hi> ſowed in Gerar of the Phili<g ref="char:EOLhyphen"/>ſtins, and found in the ſame yeare an hundred fold. And till this place bee anſwered, I iuſtifie the true ſtate of the queſtion to bee betweene digging and Ploughing, concluding euer, that at much leſſe charge to as great profit, the Plough may bee vſed by good husbands.</p>
+            <div type="part">
+               <pb facs="tcp:150479:8"/>
+               <head>The affirmed errours.</head>
+               <div type="section">
+                  <head>That it will yeeld thirtie, or twentie quarters vpon an Acre.</head>
+                  <p>I See no probabilitie; for if true, it would farre ex<g ref="char:EOLhyphen"/>ceede any increaſe of any roote, or whatſoeuer ſown or ſet by the Gardeners, and haue yeelded the profit with a great deale leſſe charge and trouble, but they haue found the contrarie. Beſides, an Acre timely ſowne after foure earthes vnder furrow, in a verie fertil ground hath not exceeded ſixe quarters, though the ſtalke hath been as thicke on the ground as any can bee that is ſet, onely preſuppoſe the eare not ſo long. But I cannot bee perſwaded, that the eare ſet will be twiſe as long, as the eare ſowne: if it would, it cannot then exceede twelue quarters. But is it not probable, that much of the Corne ſowne vnder furrow lieth as deepe, as wel rooted, the earth as looſe, and commeth vp in as many ſprouts, and ſo becommeth as many ſtalkes and heads, as the o<g ref="char:EOLhyphen"/>ther? It doth certainely, &amp; I can ſhew it by my owne practiſe; and therefore pardon my beliefe. The one<g ref="char:EOLhyphen"/>ly difference is, that no paines nor care wil be omit<g ref="char:EOLhyphen"/>ted for digging, ſetting, ſoyling, weeding, and pre<g ref="char:EOLhyphen"/>ſeruing a peece of ground adioyning to a dwelling houſe, whereas the like cannot be of many Acres in the fieldes.</p>
+               </div>
+               <div type="section">
+                  <head>That Corne that is ſowne after or about Alhollowtide, cannot ſend forth ſo many ſtalkes by reaſon of the clods.</head>
+                  <p>BY reaſon of the weather I confeſſe in generall, not in euerie particular. But in comparing their
+<pb facs="tcp:150479:8"/>worthes, let vs ſort them for times: for otherwiſe the diſpute is betwixt ill husbandrie with the Plough in ſowing, and good husbandrie with the Spade in ſetting. The later winter Corne is ſowne, general<g ref="char:EOLhyphen"/>ly the worſe it proſpereth, this euerie Husbandman knoweth. Yet I know grounds in Barkſhire and o<g ref="char:EOLhyphen"/>ther places, that will proſper much better, beeing ſowne in durt after Alhollowtide then before. But that fallow grounds with reaſonable ſtore of clods, ſhould be preiudiced by the clods, I denie, for they yeeld a double benefit to the Corne. They keepe it warme, defending it from the blaſtes and froſtes of Winter: they breake generally in the beſt ſeaſon to comfort it; which is towards the Spring, and ſo yeeld a new earth to the Corne. But if the clods offend any man, I beſeech him take me for his preſident. I drew an Oxe Harrow ouer my laſt Wheate fallow, before the laſt earth, and thereby I brake the clods all to duſt, but I repented me, and ſo may be do that followes me.</p>
+               </div>
+               <div type="section">
+                  <head>Blacke and rich mould out of Vaults and Cellers, laid vpon Gardens for want of the Sunne, will make them barren.</head>
+                  <p>DOe we not ſee and know that the Sunne is pre<g ref="char:EOLhyphen"/>iudiciall to the ſuperficies of the earth in ex<g ref="char:EOLhyphen"/>tracting the vertue out of it; and therefore wee lay not in the heate of Summer our ſoyle vppon our grounds, leaſt the radicall moiſture ſhould be ex<g ref="char:EOLhyphen"/>tracted? Doth not a new earth turned vp, if of equal goodneſſe with the firſt cruſt, yeeld a better increaſe then the firſt? Why are grubbed grounds better for
+<pb facs="tcp:150479:9"/>Corne then other, where the Sunne hath not come for many yeres. Is not the bottomes of dung heapes moſt profitable, becauſe the Sunne hath extracted the vertue from the vpper parts? What benefit of the Sunne hath the earth of pits, ditches and ponds, which lie couered with water? What hath the Mar<g ref="char:EOLhyphen"/>le and Chalke, digged out of deepe pits to manure grounds, <hi>Cummultis alijs, &amp;c.</hi> This I had thought to haue paſſed ouer as being impertinent to our <hi>Spe<g ref="char:EOLhyphen"/>cies,</hi> but that it croſſeth a true receiued obſeruati<g ref="char:EOLhyphen"/>on, verie profitable in my vnderſtanding. And that is, that there is no Mannor in England, either ſub<g ref="char:EOLhyphen"/>ſiſting wholly of barren grounds, or in part: but hath a Marle, as they terme it: that is a fat earth, as I terme it. (Bee it of what kind or colour ſo euer) Chalke or other ſtone, turfe, or ſuch like, either to be burned or vnburned, that will helpe the grounds as much or rather more then dung, and this to bee digged out of his proper ground vpon triall at a fa<g ref="char:EOLhyphen"/>dam, two, three, or foure. Alſo, there is much good to be done by obſeruing the difference of earthes, in making the earth of one field ſupplie the defect of another, and ſo interchangably they may be tempe<g ref="char:EOLhyphen"/>red to an excellent benefit.</p>
+                  <p>If any except againſt my idle houres, and make oppoſition in generall or particular, I profeſſe to preſſe the arguments no further, as being no part of my profeſſion. But therein vpon equall tearmes, I will not be wanting to anſwere whileſt I liue.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150479:9"/>
+            <pb facs="tcp:150479:10"/>
+            <pb facs="tcp:150479:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
